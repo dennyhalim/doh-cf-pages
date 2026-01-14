@@ -1,5 +1,5 @@
-const doh = 'https://security.cloudflare-dns.com/dns-query'
-const dohjson = 'https://security.cloudflare-dns.com/dns-query'
+const doh = 'https://freedns.controld.com/no-ads-porn-dating-drugs-gambling-malware-typo'
+const dohjson = 'https://freedns.controld.com/no-ads-porn-dating-drugs-gambling-malware-typo'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 

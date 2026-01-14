@@ -1,5 +1,5 @@
-const doh = 'https://freedns.controld.com/no-ads-porn-gambling-malware-typo'
-const dohjson = 'https://freedns.controld.com/no-ads-porn-gambling-malware-typo'
+const doh = 'https://dns.quad9.net/dns-query'
+const dohjson = 'https://dns.quad9.net/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
